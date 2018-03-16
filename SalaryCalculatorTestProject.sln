@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorTestProject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{1D06A121-8F52-4C07-B296-1A108F2D0F9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{D4B61066-0B21-4206-834E-3729F031E640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismTestProject", "PolymorphismTestProject\PolymorphismTestProject.csproj", "{FA4DDE25-E0D8-416E-A841-01D08865A4EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,13 @@ Global
 		{1D06A121-8F52-4C07-B296-1A108F2D0F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D06A121-8F52-4C07-B296-1A108F2D0F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D06A121-8F52-4C07-B296-1A108F2D0F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B61066-0B21-4206-834E-3729F031E640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B61066-0B21-4206-834E-3729F031E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B61066-0B21-4206-834E-3729F031E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B61066-0B21-4206-834E-3729F031E640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4DDE25-E0D8-416E-A841-01D08865A4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4DDE25-E0D8-416E-A841-01D08865A4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4DDE25-E0D8-416E-A841-01D08865A4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4DDE25-E0D8-416E-A841-01D08865A4EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
